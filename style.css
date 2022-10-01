@@ -1,0 +1,61 @@
+
+header {
+    background-color: black;
+    color: whitesmoke;
+    width: auto;
+    background-image: url(../Images/mr2_project_3_88.png);
+    height: 500px;
+}
+body {
+        background-image: url("../Images/black-carbon-fiber-hexagon-pattern.jpg");
+        font-size: 20px;
+        color: whitesmoke;
+        font-family: Arial, Helvetica, sans-serif;
+ }
+.navigation{
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: bold;
+}
+.main{
+    text-align: center;
+    color: whitesmoke;
+}
+.text{
+    text-align: center;
+}
+.front{
+    height:1000px;
+    width:700px;
+    border-radius: 20%;
+    margin-right: 600px;
+    margin-left:200px;
+    margin-bottom: 50px;
+}
+.siderear{
+    height:1000px;
+    width:700px;
+    border-radius: 20%;
+    margin-bottom: 50px;
+}
+.side{
+    height:1000px;
+    width:700px;
+    border-radius: 20%;
+    margin-right: 600px;
+    margin-left:200px;
+}
+.back{
+    height:1000px;
+    width:700px;
+    border-radius: 20%;
+}
+.video{
+    margin-left: 830px;
+    text-align: left;
+}
+    .footer{ 
+    text-align: left;
+    color: whitesmoke;
+  }
+ 
